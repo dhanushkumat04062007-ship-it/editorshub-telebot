@@ -1,0 +1,16 @@
+# Secrets - never commit these
+.env
+.env.*
+credentials.json
+*service-account*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
