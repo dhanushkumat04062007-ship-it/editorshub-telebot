@@ -67,4 +67,4 @@ editorshub_aura/
 MIT License
 
 ---
-For support, contact @Nithinvijay on Telegram.
+
