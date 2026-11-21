@@ -1,4 +1,4 @@
-# EditorsHub-AURA Telegram Bot
+# Editors Hub-AURA Telegram Bot
 
 A fully automated Telegram bot marketplace for video editing projects. Built for seamless client orders, editor recruitment, job assignment, and payment tracking.
 
