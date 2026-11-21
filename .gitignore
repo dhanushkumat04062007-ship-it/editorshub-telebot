@@ -1,6 +1,7 @@
 # Secrets - never commit these
 .env
 .env.*
+!.env.example
 credentials.json
 *service-account*.json
 
